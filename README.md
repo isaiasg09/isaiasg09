@@ -20,3 +20,7 @@
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on web development projects
 
+## Find me:
+[![Linkedin: Isaías Sobral](https://img.shields.io/badge/-Isaias_Sobral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isa%C3%ADas-h%C3%B6rlle-sobral-1972b4210/)](https://www.linkedin.com/in/isa%C3%ADas-h%C3%B6rlle-sobral-1972b4210/)
+[![Gmail Badge](https://img.shields.io/badge/-isaiashsobral@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:isaiashsobral@gmail.com)](mailto:isaiashsobral@gmail.com)
+[![GitHub isaiasg09]( https://img.shields.io/github/followers/isaiasg09?label=follow&style=social)](https://github.com/isaiasg09)
