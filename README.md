@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![isaiasg09's Stats](https://github-readme-stats.vercel.app/api?username=isaiasg09&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
