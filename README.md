@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![isaiasg09's Stats](https://github-readme-stats.vercel.app/api?username=isaiasg09&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/isaiasg09?cardType=github&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![isaiasg09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasg09&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
