@@ -2,9 +2,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/isaiasg09?cardType=github&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![isaiasg09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasg09&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
-![isaiasg09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaiasg09&theme=synthwave&hide_border=true)
 
 ## **Tools and Languages:**  
 
@@ -16,8 +13,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-- 🔭 I’m currently looking for a job!
-- 🌱 I’m currently learning NextJS
+- 🔭 I’m currently working at Digisystem
+- 🌱 I’m currently learning Fullstack Development
 - 👯 I’m looking to collaborate on web development projects
 
 ## Find me:
